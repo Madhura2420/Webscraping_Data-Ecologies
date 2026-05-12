@@ -1,0 +1,301 @@
+cluster,cluster_name,tfidf_normalised,ecological_parallel,smart_city_theme
+1,Smart Optimisation,0.21657398367307393,Ant trail routing,Mobility
+1,Smart Optimisation,0.15261902434544267,Mycelium communication,Governance
+1,Smart Optimisation,0.29751642107563586,Collective flock awareness,Surveillance
+1,Smart Optimisation,0.16190291019591696,Ecosystem feedback loops,General Smart City
+1,Smart Optimisation,0.24372416034715372,Murmuration behaviour,Ecological Intelligence
+1,Smart Optimisation,0.1241319316174465,Coral reef structure,General Smart City
+1,Smart Optimisation,0.20375232409201507,Forest mycelium network,Data Infrastructure
+1,Smart Optimisation,0.4720056298232444,Adaptive organism,General Smart City
+2,Data Infrastructure,0.6058447506522731,Ecosystem feedback loops,General Smart City
+1,Smart Optimisation,0.2108803537402137,Adaptive organism,General Smart City
+1,Smart Optimisation,0.7952229099771698,Adaptive organism,General Smart City
+1,Smart Optimisation,0.40175898141160593,Murmuration behaviour,Ecological Intelligence
+1,Smart Optimisation,0.22184089922155295,Adaptive organism,General Smart City
+1,Smart Optimisation,0.537732407166296,Adaptive organism,General Smart City
+1,Smart Optimisation,0.24491747948535655,Ant trail routing,Mobility
+1,Smart Optimisation,0.7789742779461718,Adaptive organism,General Smart City
+1,Smart Optimisation,0.37776429548044727,Adaptive organism,General Smart City
+1,Smart Optimisation,0.1890188901134752,Adaptive organism,General Smart City
+1,Smart Optimisation,0.18191916303509584,Adaptive organism,Mobility
+1,Smart Optimisation,0.3716772143917883,Adaptive organism,General Smart City
+1,Smart Optimisation,0.2913176962548754,Adaptive organism,General Smart City
+3,Sensing & Response,0.7712837035346395,Nervous system signalling,Surveillance
+3,Sensing & Response,0.20921952135536895,Coral reef structure,General Smart City
+1,Smart Optimisation,0.4929966141800123,Adaptive organism,General Smart City
+2,Data Infrastructure,0.4953459035169359,Adaptive ecosystem,General Smart City
+1,Smart Optimisation,0.41896485104610676,Forest mycelium network,Data Infrastructure
+1,Smart Optimisation,0.4420737813737434,Forest mycelium network,Mobility
+1,Smart Optimisation,0.2435852025114451,Adaptive organism,General Smart City
+1,Smart Optimisation,0.43802243399930263,Photosynthesis efficiency,Resilience
+3,Sensing & Response,0.4780744191936321,Forest mycelium network,Data Infrastructure
+1,Smart Optimisation,0.4530696113535394,Forest mycelium network,Mobility
+3,Sensing & Response,0.41126345000681613,Nervous system signalling,Surveillance
+2,Data Infrastructure,0.5209299283096473,Forest mycelium network,Governance
+3,Sensing & Response,0.1398447352287891,Forest mycelium network,Governance
+3,Sensing & Response,0.39754322732283187,Adaptive ecosystem,Mobility
+2,Data Infrastructure,0.25145056098045165,Adaptive ecosystem,General Smart City
+1,Smart Optimisation,0.23541011465558256,Mycelium communication,Data Infrastructure
+1,Smart Optimisation,0.1212078013412526,Adaptive organism,General Smart City
+1,Smart Optimisation,0.3796098102747373,Adaptive organism,General Smart City
+1,Smart Optimisation,0.3616606258169397,Coral reef structure,General Smart City
+1,Smart Optimisation,0.30692333067099686,Adaptive organism,General Smart City
+2,Data Infrastructure,0.4752842327240919,Adaptive ecosystem,General Smart City
+1,Smart Optimisation,0.5517223173606582,Coral reef structure,General Smart City
+1,Smart Optimisation,0.2153351288540834,Adaptive organism,Governance
+1,Smart Optimisation,0.36090727362520864,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.7268495747779145,Ant trail routing,Mobility
+1,Smart Optimisation,0.3778362535035491,Adaptive organism,General Smart City
+1,Smart Optimisation,0.40214925353542136,Adaptive organism,General Smart City
+2,Data Infrastructure,0.4255259314440645,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.4198932258268587,Adaptive ecosystem,General Smart City
+1,Smart Optimisation,0.2931619394701109,Adaptive organism,General Smart City
+2,Data Infrastructure,0.5047419921721713,Ecosystem feedback loops,General Smart City
+1,Smart Optimisation,0.06921232985090268,Ecosystem feedback loops,General Smart City
+1,Smart Optimisation,0.8137669682437477,Adaptive organism,General Smart City
+1,Smart Optimisation,0.34726479653201914,Mycelium communication,Data Infrastructure
+1,Smart Optimisation,0.33284407683136186,Adaptive organism,General Smart City
+1,Smart Optimisation,0.08685930682737113,Ant trail routing,Mobility
+1,Smart Optimisation,0.14585989458663337,Adaptive organism,Mobility
+1,Smart Optimisation,0.032241864504137775,Ant trail routing,Mobility
+1,Smart Optimisation,0.07984962536790349,Adaptive organism,General Smart City
+1,Smart Optimisation,0.0823397267558748,Mycelium communication,Data Infrastructure
+1,Smart Optimisation,0.1171361160382803,Murmuration behaviour,Governance
+2,Data Infrastructure,0.4419861134673196,Adaptive ecosystem,General Smart City
+0,Control & Surveillance,0.38490422861815315,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.3512232700585688,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.27462794647986244,Forest mycelium network,Surveillance
+0,Control & Surveillance,0.5283634015976298,Forest mycelium network,Surveillance
+0,Control & Surveillance,0.8395408689616508,Collective flock awareness,Surveillance
+2,Data Infrastructure,0.3443863634327583,Ant trail routing,Mobility
+2,Data Infrastructure,0.14115522482883217,Ant trail routing,Mobility
+2,Data Infrastructure,0.13262680581934802,Forest mycelium network,Surveillance
+2,Data Infrastructure,0.060703934443063955,Murmuration behaviour,Ecological Intelligence
+2,Data Infrastructure,0.20117861344725735,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.2897073772155602,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.37373816741563787,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.3756050067209875,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.31729036844881026,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.514877901923459,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.28760637485126983,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.6093160251007456,Forest mycelium network,Governance
+0,Control & Surveillance,0.46397602304037405,Nervous system signalling,Surveillance
+0,Control & Surveillance,0.39871185948277793,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.23941232894045683,Nervous system signalling,Surveillance
+0,Control & Surveillance,0.2442332481220099,Collective flock awareness,Surveillance
+1,Smart Optimisation,0.6108456523804313,Adaptive ecosystem,General Smart City
+0,Control & Surveillance,0.4778624309444883,Forest mycelium network,Surveillance
+0,Control & Surveillance,0.1896266023283539,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.1984456470965624,Adaptive ecosystem,General Smart City
+0,Control & Surveillance,0.1969568282015707,Ant trail routing,Mobility
+2,Data Infrastructure,0.025289890112504466,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.3804120859415873,Ant trail routing,Mobility
+2,Data Infrastructure,0.1729177852814905,Mycelium communication,Governance
+2,Data Infrastructure,0.3321398274785193,Mycelium communication,Data Infrastructure
+2,Data Infrastructure,0.29432649058010635,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.23181541047175697,Ant trail routing,Mobility
+2,Data Infrastructure,0.5199359840766007,Forest mycelium network,Surveillance
+0,Control & Surveillance,0.6607406594835508,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.5010351387935655,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.3316966503905977,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.2993681453607542,Forest mycelium network,Data Infrastructure
+0,Control & Surveillance,0.5402904954721135,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.3687316976737758,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.16827932967239687,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.40659047405942883,Nervous system signalling,Surveillance
+0,Control & Surveillance,0.5770069835477037,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.3874393462471491,Ant trail routing,Mobility
+0,Control & Surveillance,0.3011604455560134,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.4545491923594551,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.3233924605887313,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.23508704415591627,Forest mycelium network,Surveillance
+2,Data Infrastructure,0.308068125634563,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.4898670916529684,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.3420879848376347,Ant trail routing,Mobility
+2,Data Infrastructure,0.3532342497006409,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.4337073860848751,Forest mycelium network,Surveillance
+3,Sensing & Response,0.48108330139853583,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.18623672329862706,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.33683464717386224,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.44707092523510017,Adaptive ecosystem,General Smart City
+0,Control & Surveillance,0.004960538872699427,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.6488887395869082,Collective flock awareness,Surveillance
+3,Sensing & Response,0.10594961527649452,Nervous system signalling,Surveillance
+2,Data Infrastructure,0.5182224235646155,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.2880068567816689,Forest mycelium network,Data Infrastructure
+3,Sensing & Response,0.4339373686504531,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.3774365370300089,Forest mycelium network,Surveillance
+2,Data Infrastructure,0.6358721335978704,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.5069037092680644,Ant trail routing,Mobility
+3,Sensing & Response,0.3682107219993813,Forest mycelium network,Governance
+2,Data Infrastructure,0.21864470869276365,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.5661646804037108,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.7663036716598809,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.16633953070923935,Forest mycelium network,Data Infrastructure
+3,Sensing & Response,0.21633611859756607,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.10602201950047901,Forest mycelium network,Data Infrastructure
+3,Sensing & Response,0.2385031507576518,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.3863560587929558,Nervous system signalling,Surveillance
+3,Sensing & Response,0.35572450452193305,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.18273818694044544,Adaptive ecosystem,General Smart City
+1,Smart Optimisation,0.3158773250205769,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.3758008913251724,Forest mycelium network,Data Infrastructure
+3,Sensing & Response,0.12130459743439102,Murmuration behaviour,Ecological Intelligence
+2,Data Infrastructure,0.3026163828297602,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.08420800510474168,Collective flock awareness,Surveillance
+3,Sensing & Response,0.2156917702563098,Murmuration behaviour,Ecological Intelligence
+0,Control & Surveillance,0.08577953758248145,Collective flock awareness,Surveillance
+4,Urban Governance,0.2242206571477262,Forest mycelium network,Surveillance
+0,Control & Surveillance,0.24427932263135171,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.37267756346307274,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.6554129886187535,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.7188218575920505,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.4402533430090463,Collective flock awareness,Surveillance
+2,Data Infrastructure,0.5439838492377578,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.14781362286172225,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.3357086501525656,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.533905518105856,Collective flock awareness,Surveillance
+2,Data Infrastructure,0.20515728434989772,Collective flock awareness,Surveillance
+3,Sensing & Response,0.162922052348935,Murmuration behaviour,Ecological Intelligence
+0,Control & Surveillance,0.315296266762057,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.12941540488422965,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.40544343504840497,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.4673412044942521,Collective flock awareness,Surveillance
+0,Control & Surveillance,1.0,Collective flock awareness,Surveillance
+2,Data Infrastructure,0.4525800137301613,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.3059709973743737,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.4528604790033683,Collective flock awareness,Surveillance
+2,Data Infrastructure,0.2585283636860374,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.659222975966021,Adaptive ecosystem,General Smart City
+0,Control & Surveillance,0.2699315764475585,Forest mycelium network,Surveillance
+0,Control & Surveillance,0.38545272059082253,Collective flock awareness,Surveillance
+0,Control & Surveillance,0.39414872644090426,Collective flock awareness,Surveillance
+4,Urban Governance,0.2689411204664229,Nervous system signalling,Surveillance
+3,Sensing & Response,0.322683208575643,Nervous system signalling,Surveillance
+3,Sensing & Response,0.18463248528275153,Adaptive organism,Mobility
+4,Urban Governance,0.3560139692121633,Forest mycelium network,Governance
+2,Data Infrastructure,0.6607261423666996,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.19678658300340524,Nervous system signalling,Surveillance
+3,Sensing & Response,0.14238950652689045,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.12602608758419198,Nervous system signalling,Surveillance
+2,Data Infrastructure,0.639442957372925,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.5104602858258275,Mycelium communication,Data Infrastructure
+4,Urban Governance,0.5182713824422333,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.2955345038851057,Coral reef structure,General Smart City
+3,Sensing & Response,0.18616102585019173,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.28638610108612766,Photosynthesis efficiency,Resilience
+3,Sensing & Response,0.8076057359957204,Adaptive organism,General Smart City
+3,Sensing & Response,0.35000684666257814,Nervous system signalling,Surveillance
+4,Urban Governance,0.4879730146880484,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.38925087389092844,Forest mycelium network,Data Infrastructure
+3,Sensing & Response,0.36806370166478447,Adaptive organism,General Smart City
+3,Sensing & Response,0.2635242783604971,Nervous system signalling,Surveillance
+3,Sensing & Response,0.3127329841518577,Nervous system signalling,Surveillance
+2,Data Infrastructure,0.3438133019683992,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.1981796068019445,Nervous system signalling,Surveillance
+3,Sensing & Response,0.35748902090206824,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.27931297251451587,Ant trail routing,Mobility
+3,Sensing & Response,0.7567557259056491,Coral reef structure,General Smart City
+3,Sensing & Response,0.36386492187649605,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.42911790286520035,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.745897911022786,Mycelium communication,Data Infrastructure
+3,Sensing & Response,0.33823494552993705,Nervous system signalling,Surveillance
+4,Urban Governance,0.4013760394710521,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.17634282411335195,Nervous system signalling,Surveillance
+3,Sensing & Response,0.49271065966953365,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.3086442125769816,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.20512740238855443,Forest mycelium network,Data Infrastructure
+1,Smart Optimisation,0.31525145023897316,Adaptive organism,General Smart City
+3,Sensing & Response,0.3716161507064096,Nervous system signalling,Surveillance
+1,Smart Optimisation,0.4052480125360657,Ant trail routing,Mobility
+3,Sensing & Response,0.35257148771167984,Photosynthesis efficiency,Data Infrastructure
+3,Sensing & Response,0.16987329304911017,Forest mycelium network,Data Infrastructure
+3,Sensing & Response,0.13256271664696653,Nervous system signalling,Surveillance
+1,Smart Optimisation,0.23452548771554252,Coral reef structure,Mobility
+3,Sensing & Response,0.4214553559634436,Nervous system signalling,Surveillance
+3,Sensing & Response,0.43724836420930535,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.19108457249621116,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.25027797377090766,Nervous system signalling,Surveillance
+2,Data Infrastructure,0.2583823942879215,Watershed filtration,Resilience
+4,Urban Governance,0.15074304229444038,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.1731118236068779,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.7223002831675773,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.5239381289878474,Adaptive organism,General Smart City
+4,Urban Governance,0.2673023891922724,Forest mycelium network,Data Infrastructure
+3,Sensing & Response,0.29531052640289557,Nervous system signalling,Surveillance
+4,Urban Governance,0.4717381443704801,Nervous system signalling,Surveillance
+4,Urban Governance,0.16468963085514196,Forest mycelium network,Mobility
+4,Urban Governance,0.35673160293531186,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.2275094722249627,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.10421918922253497,Forest mycelium network,Governance
+4,Urban Governance,0.23588816655576667,Mycelium communication,Data Infrastructure
+3,Sensing & Response,0.5043487559912724,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.1747253435355745,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.27992614413001243,Adaptive organism,General Smart City
+4,Urban Governance,0.3239850727301743,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.2591899981097091,Nervous system signalling,Surveillance
+4,Urban Governance,0.439662185364314,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.24939165891452622,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.07777592754068378,Mycelium communication,Data Infrastructure
+4,Urban Governance,0.22638041629881972,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.24949889402337969,Mycelium communication,Data Infrastructure
+4,Urban Governance,0.35737152616696594,Mycelium communication,Data Infrastructure
+4,Urban Governance,0.41401145926207106,Adaptive organism,General Smart City
+3,Sensing & Response,0.6580720227134789,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.9646842506201474,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.6747619433307482,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.09766151978666918,Nervous system signalling,Surveillance
+4,Urban Governance,0.3553598476020552,Forest mycelium network,Governance
+2,Data Infrastructure,0.3438133019683992,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.4595555065134708,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.21357465768825007,Adaptive ecosystem,Governance
+2,Data Infrastructure,0.4930309527962908,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.058404723740846765,Ant trail routing,Mobility
+4,Urban Governance,0.3074702700771192,Adaptive ecosystem,Governance
+4,Urban Governance,0.17822202183588468,Coral reef structure,Governance
+4,Urban Governance,0.22558418034372638,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.27370978426100506,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.5398090139037006,Murmuration behaviour,Governance
+2,Data Infrastructure,0.4918996167578284,Forest mycelium network,Mobility
+4,Urban Governance,0.24941310330563604,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.5555396713359406,Collective flock awareness,Surveillance
+2,Data Infrastructure,0.49199969943739064,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.06643814080404488,Forest mycelium network,Governance
+4,Urban Governance,0.20110293325143105,Nervous system signalling,Surveillance
+2,Data Infrastructure,0.790633422173329,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.3481430620179807,Forest mycelium network,Governance
+1,Smart Optimisation,0.4737157463755387,Photosynthesis efficiency,Governance
+3,Sensing & Response,0.2657024341702106,Nervous system signalling,Surveillance
+3,Sensing & Response,0.2758027117164689,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.3451100741484745,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.39650649045617525,Mycelium communication,Data Infrastructure
+4,Urban Governance,0.3505910313624363,Adaptive organism,General Smart City
+4,Urban Governance,0.019741713832061972,Photosynthesis efficiency,Resilience
+4,Urban Governance,0.4636624581839103,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.13555691252468682,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.24576086022404914,Adaptive ecosystem,General Smart City
+3,Sensing & Response,0.2043428378264975,Nervous system signalling,Surveillance
+4,Urban Governance,0.0,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.3099950436976169,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.3525125006016742,Adaptive ecosystem,Governance
+4,Urban Governance,0.6283171488322369,Forest mycelium network,Governance
+3,Sensing & Response,0.3815163796325285,Nervous system signalling,Surveillance
+3,Sensing & Response,0.39693473914637223,Adaptive organism,General Smart City
+3,Sensing & Response,0.39056128981396543,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.4073387656868398,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.4544643753955262,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.3096639879441279,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.26126531574325196,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.5462928083577863,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.3201135930726149,Nervous system signalling,Surveillance
+4,Urban Governance,0.4214859512149309,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.36801400264497264,Mycelium communication,Data Infrastructure
+4,Urban Governance,0.03941179415209223,Adaptive ecosystem,General Smart City
+2,Data Infrastructure,0.5180567945041324,Forest mycelium network,Data Infrastructure
+2,Data Infrastructure,0.45904311393866787,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.2538394018434882,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.20849650275153928,Forest mycelium network,Data Infrastructure
+4,Urban Governance,0.2233230070872697,Ecosystem feedback loops,Governance
+4,Urban Governance,0.19442579546746813,Adaptive ecosystem,General Smart City
+4,Urban Governance,0.6611564036176957,Wolf pack hierarchy,Governance
+1,Smart Optimisation,0.754121700202109,Watershed filtration,Mobility

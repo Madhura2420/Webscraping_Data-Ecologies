@@ -1,0 +1,6 @@
+cluster_id,cluster_name,ecological_parallel,height,density,curvature,grid_size,rotation,scale
+0,Control & Surveillance,Collective flock awareness,80,0.9,0.1,10,0,1.0
+1,Smart Optimisation,Ant trail routing,60,0.7,0.2,8,15,0.85
+2,Data Infrastructure,Forest mycelium network,40,0.5,0.5,6,30,0.7
+3,Sensing & Response,Nervous system signalling,30,0.3,0.7,4,45,0.55
+4,Urban Governance,Murmuration behaviour,20,0.1,0.9,2,60,0.4
